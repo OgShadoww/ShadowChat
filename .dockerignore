@@ -1,0 +1,8 @@
+.git
+.codex
+.agents
+shadowchat
+*.test
+*.out
+*.log
+.DS_Store
